@@ -14,7 +14,7 @@
 
 <b>Решение:</b>
 
-\b(?![0-9a-fA-F]{1,4}:)[A-Za-z][A-Za-z0-9]{2,19}\b
+\b([A-Za-z][A-Za-z0-9]{2,19}\b
 
 <b>3 Блок: Задача 3.</b> Построить РВ, описывающее IP-адрес (v6).
 
@@ -41,10 +41,10 @@ r')\b'
 
 <b>Тестовые примеры:</b>
 Поиск СНИЛС:
-!["Picture1"]("Picture1")
+!["Picture1.png"]("Picture1.png")
 
 Поиск Имени пользователя:
-!["Picture2"]("Picture2")
+!["Picture2.png"]("Picture2.png")
 
 Поиск IP-адреса:
-!["Picture3"]("Picture3")
+!["Picture3.png"]("Picture3.png")
