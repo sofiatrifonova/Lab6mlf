@@ -41,10 +41,10 @@ r')\b'
 
 <b>Тестовые примеры:</b>
 Поиск СНИЛС:
-!["Picture1.png"]("Picture1.png")
+!["Picture1.png"](Picture1.png)
 
 Поиск Имени пользователя:
-!["Picture2.png"]("Picture2.png")
+!["Picture2.png"](Picture2.png)
 
 Поиск IP-адреса:
-!["Picture3.png"]("Picture3.png")
+!["Picture3.png"](Picture3.png)
